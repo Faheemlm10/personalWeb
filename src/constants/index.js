@@ -31,7 +31,7 @@ import {
   mix,
   ani,
   peak,
-  punn
+  punn,
 } from "../assets";
 
 export const navLinks = [
@@ -175,7 +175,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "",
+      "Faheem excelled at AltoTech, demonstrating adept software skills, quick learning, and fervor for problem-solving. Highly recommend for any technical role.",
     name: "Chanawee Janyakhantikul",
     designation: "Software Development Manager",
     company: "AltoTech ",
@@ -183,15 +183,14 @@ const testimonials = [
   },
   {
     testimonial:
-      "",
+      "I knew that Faheem is a fast leaner and great to work with since the first week of his internship. I was impressed with his skills and passion to be a software engineer. Lastly, he was very nice!",
     name: "Punn Damrongratnuwong",
     designation: "Data Analyst",
     company: "Agoda",
     image: punn,
-  },  
+  },
   {
-    testimonial:
-      "",
+    testimonial: "",
     name: "Tanabodee Wanitnunttada",
     designation: "Associate Consultant",
     company: "Bluebik",
