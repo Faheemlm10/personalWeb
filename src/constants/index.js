@@ -43,10 +43,10 @@ export const navLinks = [
     id: "work",
     title: "Work",
   },
-  {
-    id: "contact",
-    title: "Contact",
-  },
+  // {
+  //   id: "contact",
+  //   title: "Contact",
+  // },
 ];
 
 const services = [
@@ -175,7 +175,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Faheem excelled at AltoTech, demonstrating adept software skills, quick learning, and fervor for problem-solving. Highly recommend for any technical role.",
+      "During his internship at AltoTech, Faheem consistently demonstrated a strong aptitude for software development. He is a fast learner, always eager to expand his knowledge. His proclivity for tackling challenging problems and working seamlessly as part of our team was commendable. Moreover, his bravery in raising issues and engaging in productive discussions showcased not only his technical acumen but also his commitment to effective teamwork. I wholeheartedly recommend Faheem for any technical role, confident in his ability to deliver and excel.",
     name: "Chanawee Janyakhantikul",
     designation: "Software Development Manager",
     company: "AltoTech ",
