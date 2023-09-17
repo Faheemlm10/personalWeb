@@ -190,10 +190,10 @@ const testimonials = [
     image: punn,
   },
   {
-    testimonial: "",
-    name: "Tanabodee Wanitnunttada",
-    designation: "Associate Consultant",
-    company: "Bluebik",
+    testimonial: "Faheem is a diligent colleague who has demonstrated leadership and team management abilities, and can always provide a wide range of perspectives to solve a problem. He never fails to better himself and acquire new technical skills to ensure that any project succeeds. Faheem is also a amiable and all-rounded person who will be an excellent addition to any team.",
+    name: "Nithit Kongsuphol",
+    designation: "Project Manager ",
+    company: "Warwick Hyperloop",
     image: peak,
   },
 ];
